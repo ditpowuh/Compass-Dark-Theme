@@ -14,11 +14,11 @@ body {
 }
 
 #c_ftr div:first-child:after {
-    content: ' ~ Compass Dark Theme by Ditpowuh ~ Beta v1';
+    content: ' ~ Compass Dark Theme by Ditpowuh ~ Beta v2';
 }
 
 #c_ftr div:nth-child(2):after {
-    content: ' ~ Modifification - Open-sourced ~ Beta v1';
+    content: ' ~ Modifification - Open-sourced ~ Beta v2';
 }
 
 .ext-cal-toolbar .x-box-inner {
@@ -144,4 +144,18 @@ body .fade {
 
 .action-tip-user-name-title {
     font-size: 12.5px;
+}
+
+#dashboard-body {
+    background-color: #23272a;
+}
+
+/*Part 4 (Main: Reports)*/
+
+#reports {
+    background-color: #23272a;
+}
+
+#reports a {
+    color: #2951a5;
 }
