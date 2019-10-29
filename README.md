@@ -1,1 +1,4 @@
-# Compass-Dark-Theme
+# Compass Dark Theme
+#### ~ Created by Ditpowuh ~
+
+### Installation / Instructions
