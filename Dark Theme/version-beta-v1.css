@@ -1,0 +1,145 @@
+/*Part 1 (Main: Home Page)*/
+
+body {
+    color: white !important;
+    background-color: #23272a !important;
+}
+
+.sel-newsfeed-item-container-right .x-panel-body a {
+    color: black;
+}
+
+#c_ftr div {
+    font-size: 12px;
+}
+
+#c_ftr div:first-child:after {
+    content: ' ~ Compass Dark Theme by Ditpowuh ~ Beta v1';
+}
+
+#c_ftr div:nth-child(2):after {
+    content: ' ~ Modifification - Open-sourced ~ Beta v1';
+}
+
+.ext-cal-toolbar .x-box-inner {
+    color: black !important;
+}
+
+.x-component.x-box-item div {
+    filter: brightness(2);
+}
+
+#aspnetForm {
+    background-color: #23272a;
+}
+
+#c_bar {
+    background-color: #2c2f33;
+}
+
+a {
+    color: #dce6f4;
+}
+
+body .fade {
+    visibility: hidden;
+}
+.x-toolbar-blue-toolbar .x-box-inner {
+    color: black;
+    border-radius: 50%;
+}
+
+.ext-cal-day-col-gutter {
+    background-color: #2c2f33;
+}
+
+.ext-cal-day-time-inner {
+    background-color: #363b42;
+    color: #EEEEEE;
+    border: 10px solid #434854;
+}
+
+.ext-cal-day-col-inner {
+    background-color: black;
+}
+
+.x-toolbar-default h5 {
+    color: black;
+}
+
+#container-1052-innerCt h5 {
+    color: black;
+}
+
+#ext-comp-1253 {
+    background-color: black;
+}
+
+.smalldesc {
+    color: white;
+}
+
+#ext-comp-1253 {
+    background-color: #000000 !important;
+}
+
+#container-1062-innerCt {
+    border: 2.5px solid #b1cee3;
+}
+
+#container-1062-innerCt a {
+    color: #5899c7
+}
+
+#container-1062-innerCt .smalldesc {
+    color: #616161;
+}
+
+#container-1062-innerCt div {
+    color: black;
+}
+
+/*Part 2 (Main: Learning Task Page)*/
+
+.Active {
+    color: black;
+    background-color: lightgreen;
+}
+
+.x-grid-cell-headerId-gridcolumn-1040 .learning-task-datafield-value {
+    color: white;
+}
+.x-grid-cell-headerId-gridcolumn-1040 .learning-task-datafield-title {
+    color: white;
+}
+
+.x-grid-cell-headerId-gridcolumn-1040 .x-grid-cell-inner {
+    background-color: #2c2f33;
+    background: linear-gradient(to right, white 0%, #2c2f33 2.5%);
+}
+
+.x-grid-cell-headerId-gridcolumn-1041 .x-grid-cell-inner {
+    background-color: #2c2f33;
+    background: linear-gradient(to left, white 0%, #2c2f33 5.5%);
+    color: white;
+}
+
+.x-grid-cell-headerId-gridcolumn-1041 .learning-task-datafield-value {
+    color: white;
+}
+
+#learningTasks-innerCt {
+    background-color: #23272a;
+}
+
+.x-grid-cell-first a {
+    color: #5899c7; 
+}
+
+.action-tip-user-photo-wrapper img {
+    filter: brightness(0.065);
+}
+
+.action-tip-user-name-title {
+    font-size: 12.5px;
+}
